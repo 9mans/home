@@ -6,6 +6,7 @@ public class Ex7_1 {
 		SmartTv stv = new SmartTv();
 		stv.channel = 10;
 		stv.channelUp();
+		
 		System.out.println(stv.channel);
 		
 		stv.displayCaption("hello");

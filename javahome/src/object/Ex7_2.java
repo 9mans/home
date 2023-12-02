@@ -4,7 +4,6 @@ public class Ex7_2 {
 
 	public static void main(String[] args) {
 		child c = new child();
-		
 		c.method();
 	}
 }

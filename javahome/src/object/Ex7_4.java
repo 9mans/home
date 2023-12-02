@@ -5,7 +5,6 @@ public class Ex7_4 {
 	public static void main(String[] args) {
 		
 		Point3D p = new Point3D(3, 4, 5);
-		
 		System.out.println(p.x + p.y + p.z);
 	}
 }
